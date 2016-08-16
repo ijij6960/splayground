@@ -4,7 +4,7 @@ import UIKit
 import AVFoundation
 
 
-
+var str = "master"
 
 
 class Abc
